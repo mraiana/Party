@@ -1,0 +1,72 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color:dodgerblue;
+    padding: 10px;
+    color: white;
+}
+
+header a {
+    text-decoration: none;
+    color: royalblue;
+    border: 2px solid white; 
+    background-color:papayawhip;
+    border-radius: 5px;
+    padding: 2px;
+}
+
+h1 {
+    color: cornflowerblue;
+}
+
+footer {
+    background-color: dodgerblue;
+}
+
+footer p {
+    background-color: white;
+    border: 3px solid dodgerblue;
+    padding: 5px;
+    color: cornflowerblue;
+}
+
+nav {
+    border: 2px solid blue;
+    background-color:blue;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 5px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+
+}
+
+.peg {
+    border: 2px solid rgb(70, 70, 255);
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+    background-color: rgb(70, 70, 255);
+}
+
+.img {
+    border: 1px solid cornflowerblue;
+    border-radius: 10px;
+}
+
+body {
+    font-size: 20px;
+}
+
+main {
+    margin:10px;
+}
+
+h2 {
+    color: darkblue;
+}
